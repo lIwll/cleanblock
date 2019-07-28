@@ -1,0 +1,10 @@
+F:\cleanblock\Engine\engine\UCommon\UGameData\obj\Debug\netcoreapp2.1\UGameData.csproj.CoreCompileInputs.cache
+F:\cleanblock\Engine\engine\UCommon\UGameData\obj\Debug\netcoreapp2.1\UGameData.AssemblyInfoInputs.cache
+F:\cleanblock\Engine\engine\UCommon\UGameData\obj\Debug\netcoreapp2.1\UGameData.AssemblyInfo.cs
+F:\cleanblock\Engine\engine\bin\netcoreapp2.1\UGameData.deps.json
+F:\cleanblock\Engine\engine\bin\netcoreapp2.1\UGameData.dll
+F:\cleanblock\Engine\engine\bin\netcoreapp2.1\UGameData.pdb
+F:\cleanblock\Engine\engine\UCommon\UGameData\obj\Debug\netcoreapp2.1\UGameData.csprojAssemblyReference.cache
+F:\cleanblock\Engine\engine\UCommon\UGameData\obj\Debug\netcoreapp2.1\UGameData.csproj.CopyComplete
+F:\cleanblock\Engine\engine\UCommon\UGameData\obj\Debug\netcoreapp2.1\UGameData.dll
+F:\cleanblock\Engine\engine\UCommon\UGameData\obj\Debug\netcoreapp2.1\UGameData.pdb

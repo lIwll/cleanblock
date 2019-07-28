@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>BlowFire</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningsAsErrors />
+    <OutputPath>..\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DOTween">
+      <HintPath>..\Depend\UIModule\plugins\Demigiant\DOTween\DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween43">
+      <HintPath>..\Depend\UIModule\plugins\Demigiant\DOTween\DOTween43.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween46">
+      <HintPath>..\Depend\UIModule\plugins\Demigiant\DOTween\DOTween46.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween50">
+      <HintPath>..\Depend\UIModule\plugins\Demigiant\DOTween\DOTween50.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\Depend\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="UCore">
+      <HintPath>..\bin\netcoreapp2.1\UCore.dll</HintPath>
+    </Reference>
+    <Reference Include="UGameData">
+      <HintPath>..\bin\netcoreapp2.1\UGameData.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>..\Depend\Unity\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\Depend\Unity\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UScript">
+      <HintPath>..\bin\netcoreapp2.1\UScript.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

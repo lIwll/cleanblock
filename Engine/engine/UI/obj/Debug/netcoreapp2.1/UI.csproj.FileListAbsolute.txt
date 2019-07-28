@@ -1,0 +1,10 @@
+F:\cleanblock\Engine\engine\UI\obj\Debug\netcoreapp2.1\UI.csprojAssemblyReference.cache
+F:\cleanblock\Engine\engine\UI\obj\Debug\netcoreapp2.1\UI.csproj.CoreCompileInputs.cache
+F:\cleanblock\Engine\engine\UI\obj\Debug\netcoreapp2.1\UI.AssemblyInfoInputs.cache
+F:\cleanblock\Engine\engine\UI\obj\Debug\netcoreapp2.1\UI.AssemblyInfo.cs
+F:\cleanblock\Engine\engine\bin\netcoreapp2.1\UI.deps.json
+F:\cleanblock\Engine\engine\bin\netcoreapp2.1\UI.dll
+F:\cleanblock\Engine\engine\bin\netcoreapp2.1\UI.pdb
+F:\cleanblock\Engine\engine\UI\obj\Debug\netcoreapp2.1\UI.csproj.CopyComplete
+F:\cleanblock\Engine\engine\UI\obj\Debug\netcoreapp2.1\UI.dll
+F:\cleanblock\Engine\engine\UI\obj\Debug\netcoreapp2.1\UI.pdb

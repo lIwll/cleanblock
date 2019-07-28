@@ -1,0 +1,10 @@
+F:\cleanblock\Engine\engine\UCommon\UScript\obj\Debug\netcoreapp2.1\UScript.csproj.CoreCompileInputs.cache
+F:\cleanblock\Engine\engine\UCommon\UScript\obj\Debug\netcoreapp2.1\UScript.AssemblyInfoInputs.cache
+F:\cleanblock\Engine\engine\UCommon\UScript\obj\Debug\netcoreapp2.1\UScript.AssemblyInfo.cs
+F:\cleanblock\Engine\engine\bin\netcoreapp2.1\UScript.deps.json
+F:\cleanblock\Engine\engine\bin\netcoreapp2.1\UScript.dll
+F:\cleanblock\Engine\engine\bin\netcoreapp2.1\UScript.pdb
+F:\cleanblock\Engine\engine\UCommon\UScript\obj\Debug\netcoreapp2.1\UScript.csprojAssemblyReference.cache
+F:\cleanblock\Engine\engine\UCommon\UScript\obj\Debug\netcoreapp2.1\UScript.csproj.CopyComplete
+F:\cleanblock\Engine\engine\UCommon\UScript\obj\Debug\netcoreapp2.1\UScript.dll
+F:\cleanblock\Engine\engine\UCommon\UScript\obj\Debug\netcoreapp2.1\UScript.pdb
