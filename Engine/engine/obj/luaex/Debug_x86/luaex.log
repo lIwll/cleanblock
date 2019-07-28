@@ -1,0 +1,58 @@
+﻿  lapi.c
+  lcode.c
+  lctype.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  llex.c
+  lmem.c
+  lobject.c
+  lopcodes.c
+  lparser.c
+  lstate.c
+  lstring.c
+  ltable.c
+  ltm.c
+  lundump.c
+  lvm.c
+  lzio.c
+  正在生成代码...
+  正在编译...
+  lauxlib.c
+  lbaselib.c
+  lbitlib.c
+  lcorolib.c
+  ldblib.c
+  liolib.c
+  lmathlib.c
+  loslib.c
+  lstrlib.c
+  ltablib.c
+  linit.c
+  lutf8lib.c
+  loadlib.c
+  luaex.c
+  luaex_i64lib.c
+  正在生成代码...
+  auxiliar.c
+  buffer.c
+  except.c
+  inet.c
+  io.c
+  luasocket.c
+  mime.c
+  options.c
+  select.c
+  tcp.c
+  timeout.c
+  udp.c
+  wsocket.c
+  正在生成代码...
+    正在创建库 F:\App_CleanBlock\Engine\engine\bin\x86\luaex.lib 和对象 F:\App_CleanBlock\Engine\engine\bin\x86\luaex.exp
+  luaex.vcxproj -> F:\App_CleanBlock\Engine\engine\bin\x86\luaex.dll
+  F:\App_CleanBlock\Engine\engine\bin\x86\luaex.dll -> F:\App_CleanBlock\Engine\engine\UProject\Editor\Assets\Plugins\x86\luaex.dll
+  复制了 1 个文件
+  F:\App_CleanBlock\Engine\engine\bin\x86\luaex.dll -> F:\App_CleanBlock\Engine\engine\UProject\Game\Assets\Plugins\x86\luaex.dll
+  复制了 1 个文件
